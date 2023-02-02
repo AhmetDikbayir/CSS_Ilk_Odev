@@ -1,0 +1,25 @@
+.baslik{
+    color:#7286D3;
+    font-family: 'Sofia Sans Extra Condensed', sans-serif;
+    text-align: center;
+}
+
+.text-align{
+    text-align: center;
+}
+.baslik2{
+    color: #5D3891;
+}
+
+.baslik3{
+    color: #F99417;
+}
+
+.price{
+    border-style: solid;
+    font-size: 20px;
+}
+
+.paragraph{
+    font-family: 'Ubuntu', sans-serif;
+}
